@@ -2,10 +2,11 @@
 {
     public class Usuario
     {
-        private int Id;
-        private string nome;
-
-        public int Id1 { get => Id; set => Id = value; }
-        public string Nome { get => nome; set => nome = value; }
+        public int Id { get; set; }
+        public string Cpf { get; set; }
+        public string Nome { get; set; }
+        public string Endereco { get; set; }
+        public string Cidade { get; set; }
+        public string TelefoneCelular { get; set; }
     }
 }
