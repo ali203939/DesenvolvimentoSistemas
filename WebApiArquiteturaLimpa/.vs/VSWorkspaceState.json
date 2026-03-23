@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\WebApiArquiteturaLimpa.Api\\Controllers",
+    "\\src\\WebApiArquiteturaLimpa.Api\\Properties",
+    "\\src\\WebApiArquiteturaLimpa.Domain",
+    "\\src\\WebApiArquiteturaLimpa.Domain\\Entities",
+    "\\src\\WebApiArquiteturaLimpa.Infrastructure"
+  ],
+  "SelectedNode": "\\src\\WebApiArquiteturaLimpa.Api",
+  "PreviewInSolutionExplorer": false
+}

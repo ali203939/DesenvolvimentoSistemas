@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/MostrarEmprestimo": {
+    "/Emprestimo/MostrarEmprestimo": {
       "get": {
         "tags": [
           "Emprestimo"
@@ -64,6 +64,60 @@
                 }
               }
             }
+          }
+        }
+      }
+    },
+    "/Emprestimo/RealizarEmprestimo": {
+      "post": {
+        "tags": [
+          "Emprestimo"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "idCliente",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "idLivro",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "dataEmprestimo",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "tipoLivro",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
           }
         }
       }

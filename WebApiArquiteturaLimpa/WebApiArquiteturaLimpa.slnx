@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WebApiArquiteturaLimpa.Api/WebApiArquiteturaLimpa.csproj" />
+    <Project Path="src/WebApiArquiteturaLimpa.Domain/WebApiArquiteturaLimpa.Domain.csproj" />
+    <Project Path="src/WebApiArquiteturaLimpa.Application/WebApiArquiteturaLimpa.Application.csproj" />
+    <Project Path="src/WebApiArquiteturaLimpa.Infrastructure/WebApiArquiteturaLimpa.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/WebApiArquiteturaLimpa.UnitTests/WebApiArquiteturaLimpa.UnitTests.csproj" />
+    <Project Path="tests/WebApiArquiteturaLimpa.IntegrationTests/WebApiArquiteturaLimpa.IntegrationTests.csproj" />
+  </Folder>
+</Solution>

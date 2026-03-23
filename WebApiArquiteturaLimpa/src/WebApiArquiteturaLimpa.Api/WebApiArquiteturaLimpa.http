@@ -1,0 +1,6 @@
+@WebApiArquiteturaLimpa_HostAddress = http://localhost:5169
+
+GET {{WebApiArquiteturaLimpa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Domain\bin\Debug\net8.0\WebApiArquiteturaLimpa.Domain.deps.json
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Domain\bin\Debug\net8.0\WebApiArquiteturaLimpa.Domain.dll
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Domain\bin\Debug\net8.0\WebApiArquiteturaLimpa.Domain.pdb
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Domain\obj\Debug\net8.0\WebApiArquiteturaLimpa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Domain\obj\Debug\net8.0\WebApiArquiteturaLimpa.Domain.AssemblyInfoInputs.cache
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Domain\obj\Debug\net8.0\WebApiArquiteturaLimpa.Domain.AssemblyInfo.cs
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Domain\obj\Debug\net8.0\WebApiArquiteturaLimpa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Domain\obj\Debug\net8.0\WebApiArquiteturaLimpa.Domain.dll
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Domain\obj\Debug\net8.0\refint\WebApiArquiteturaLimpa.Domain.dll
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Domain\obj\Debug\net8.0\WebApiArquiteturaLimpa.Domain.pdb
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Domain\obj\Debug\net8.0\ref\WebApiArquiteturaLimpa.Domain.dll

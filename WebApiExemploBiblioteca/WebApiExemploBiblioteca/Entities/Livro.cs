@@ -8,5 +8,7 @@
         public string Editora { get; set; }
         public DateTime DataPublicacao { get; set; }
 
+        public abstract DateTime CalcularPrazo();
+
     }
 }

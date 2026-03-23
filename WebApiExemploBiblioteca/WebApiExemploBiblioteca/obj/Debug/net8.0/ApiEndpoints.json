@@ -1,5 +1,82 @@
 [
   {
+    "ContainingType": "WebApiExemploBiblioteca.Controllers.EmprestimoController",
+    "Method": "MostrarEmprestimo",
+    "RelativePath": "Emprestimo/MostrarEmprestimo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "idCliente",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "idLivro",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "dataEmprestimo",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiExemploBiblioteca.Controllers.EmprestimoController",
+    "Method": "RealizarEmprestimo",
+    "RelativePath": "Emprestimo/RealizarEmprestimo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "idCliente",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "idLivro",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "dataEmprestimo",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "tipoLivro",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebApiExemploBiblioteca.Controllers.LivroController",
     "Method": "MostrarLivro",
     "RelativePath": "Livro/MostrarLivro",
@@ -157,47 +234,6 @@
       }
     ],
     "ReturnTypes": []
-  },
-  {
-    "ContainingType": "WebApiExemploBiblioteca.Controllers.EmprestimoController",
-    "Method": "MostrarEmprestimo",
-    "RelativePath": "MostrarEmprestimo",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "idCliente",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "idLivro",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "dataEmprestimo",
-        "Type": "System.DateTime",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.String",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
   },
   {
     "ContainingType": "WebApiExemploBiblioteca.Controllers.UsuarioController",

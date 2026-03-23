@@ -1,0 +1,15 @@
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Application\bin\Debug\net8.0\WebApiArquiteturaLimpa.Application.deps.json
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Application\bin\Debug\net8.0\WebApiArquiteturaLimpa.Application.dll
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Application\bin\Debug\net8.0\WebApiArquiteturaLimpa.Application.pdb
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Application\bin\Debug\net8.0\WebApiArquiteturaLimpa.Domain.dll
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Application\bin\Debug\net8.0\WebApiArquiteturaLimpa.Domain.pdb
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Application\obj\Debug\net8.0\WebApiArquiteturaLimpa.Application.csproj.AssemblyReference.cache
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Application\obj\Debug\net8.0\WebApiArquiteturaLimpa.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Application\obj\Debug\net8.0\WebApiArquiteturaLimpa.Application.AssemblyInfoInputs.cache
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Application\obj\Debug\net8.0\WebApiArquiteturaLimpa.Application.AssemblyInfo.cs
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Application\obj\Debug\net8.0\WebApiArquiteturaLimpa.Application.csproj.CoreCompileInputs.cache
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Application\obj\Debug\net8.0\WebApiAr.328415AB.Up2Date
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Application\obj\Debug\net8.0\WebApiArquiteturaLimpa.Application.dll
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Application\obj\Debug\net8.0\refint\WebApiArquiteturaLimpa.Application.dll
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Application\obj\Debug\net8.0\WebApiArquiteturaLimpa.Application.pdb
+C:\Users\ali.brito\Desktop\atividades\WebApiArquiteturaLimpa\src\WebApiArquiteturaLimpa.Application\obj\Debug\net8.0\ref\WebApiArquiteturaLimpa.Application.dll
