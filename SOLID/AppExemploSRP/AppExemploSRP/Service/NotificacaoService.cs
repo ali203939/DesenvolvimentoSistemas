@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using AppExemploSRP.Domain;
 
 namespace AppExemploSRP.Service
 {
@@ -11,9 +7,14 @@ namespace AppExemploSRP.Service
         public string nome { get; set; }
         public string email { get; set; }
 
-        public string EnviarEmail(string nome, string email)
+        public void EnviarEmail(Cliente cliente, string email)
         {
-            return $"Email enviado para o cliente: {nome} no email: {email}";
+            Console.WriteLine($"Email enviado para {cliente.Nome} no endereço de email: {email}");
+        }
+
+        public void EnviarSMS(Cliente cliente)
+        {
+            Console.WriteLine($"SMS enviado para {cliente.Nome} no telefone: {cliente.Telefone}");
         }
     }
 }

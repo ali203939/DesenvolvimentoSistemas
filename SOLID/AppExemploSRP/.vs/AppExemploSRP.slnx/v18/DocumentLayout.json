@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploSRP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F996D5E-6D4B-4D68-995F-E851AD5283CB}|AppExemploSRP\\AppExemploSRP.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemplosrp\\appexemplosrp\\service\\notificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F996D5E-6D4B-4D68-995F-E851AD5283CB}|AppExemploSRP\\AppExemploSRP.csproj|solutionrelative:appexemplosrp\\service\\notificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF6B4AEB-0DB8-18AF-2252-DCC27C079335}|AppExemploSRP\\AppExemploSRP.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemplosrp\\appexemplosrp\\service\\faturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6B4AEB-0DB8-18AF-2252-DCC27C079335}|AppExemploSRP\\AppExemploSRP.csproj|solutionrelative:appexemplosrp\\service\\faturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F996D5E-6D4B-4D68-995F-E851AD5283CB}|AppExemploSRP\\AppExemploSRP.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemplosrp\\appexemplosrp\\service\\faturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F996D5E-6D4B-4D68-995F-E851AD5283CB}|AppExemploSRP\\AppExemploSRP.csproj|solutionrelative:appexemplosrp\\service\\faturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF6B4AEB-0DB8-18AF-2252-DCC27C079335}|AppExemploSRP\\AppExemploSRP.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemplosrp\\appexemplosrp\\service\\notificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6B4AEB-0DB8-18AF-2252-DCC27C079335}|AppExemploSRP\\AppExemploSRP.csproj|solutionrelative:appexemplosrp\\service\\notificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F996D5E-6D4B-4D68-995F-E851AD5283CB}|AppExemploSRP\\AppExemploSRP.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemplosrp\\appexemplosrp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F996D5E-6D4B-4D68-995F-E851AD5283CB}|AppExemploSRP\\AppExemploSRP.csproj|solutionrelative:appexemplosrp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF6B4AEB-0DB8-18AF-2252-DCC27C079335}|AppExemploSRP\\AppExemploSRP.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemplosrp\\appexemplosrp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6B4AEB-0DB8-18AF-2252-DCC27C079335}|AppExemploSRP\\AppExemploSRP.csproj|solutionrelative:appexemplosrp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F996D5E-6D4B-4D68-995F-E851AD5283CB}|AppExemploSRP\\AppExemploSRP.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemplosrp\\appexemplosrp\\service\\clientevalidadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F996D5E-6D4B-4D68-995F-E851AD5283CB}|AppExemploSRP\\AppExemploSRP.csproj|solutionrelative:appexemplosrp\\service\\clientevalidadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF6B4AEB-0DB8-18AF-2252-DCC27C079335}|AppExemploSRP\\AppExemploSRP.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemplosrp\\appexemplosrp\\domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6B4AEB-0DB8-18AF-2252-DCC27C079335}|AppExemploSRP\\AppExemploSRP.csproj|solutionrelative:appexemplosrp\\domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F996D5E-6D4B-4D68-995F-E851AD5283CB}|AppExemploSRP\\AppExemploSRP.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemplosrp\\appexemplosrp\\domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F996D5E-6D4B-4D68-995F-E851AD5283CB}|AppExemploSRP\\AppExemploSRP.csproj|solutionrelative:appexemplosrp\\domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF6B4AEB-0DB8-18AF-2252-DCC27C079335}|AppExemploSRP\\AppExemploSRP.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemplosrp\\appexemplosrp\\service\\clientevalidadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6B4AEB-0DB8-18AF-2252-DCC27C079335}|AppExemploSRP\\AppExemploSRP.csproj|solutionrelative:appexemplosrp\\service\\clientevalidadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F996D5E-6D4B-4D68-995F-E851AD5283CB}|AppExemploSRP\\AppExemploSRP.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemplosrp\\appexemplosrp\\model\\clienteviolacaosrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F996D5E-6D4B-4D68-995F-E851AD5283CB}|AppExemploSRP\\AppExemploSRP.csproj|solutionrelative:appexemplosrp\\model\\clienteviolacaosrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF6B4AEB-0DB8-18AF-2252-DCC27C079335}|AppExemploSRP\\AppExemploSRP.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemplosrp\\appexemplosrp\\model\\clienteviolacaosrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6B4AEB-0DB8-18AF-2252-DCC27C079335}|AppExemploSRP\\AppExemploSRP.csproj|solutionrelative:appexemplosrp\\model\\clienteviolacaosrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,46 +42,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FaturaService.cs",
               "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploSRP\\AppExemploSRP\\Service\\FaturaService.cs",
               "RelativeDocumentMoniker": "AppExemploSRP\\Service\\FaturaService.cs",
               "ToolTip": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploSRP\\AppExemploSRP\\Service\\FaturaService.cs",
               "RelativeToolTip": "AppExemploSRP\\Service\\FaturaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T00:40:39.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NotificacaoService.cs",
               "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploSRP\\AppExemploSRP\\Service\\NotificacaoService.cs",
               "RelativeDocumentMoniker": "AppExemploSRP\\Service\\NotificacaoService.cs",
               "ToolTip": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploSRP\\AppExemploSRP\\Service\\NotificacaoService.cs",
               "RelativeToolTip": "AppExemploSRP\\Service\\NotificacaoService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T00:39:41.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T00:39:41.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ClienteValidadorService.cs",
               "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploSRP\\AppExemploSRP\\Service\\ClienteValidadorService.cs",
               "RelativeDocumentMoniker": "AppExemploSRP\\Service\\ClienteValidadorService.cs",
               "ToolTip": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploSRP\\AppExemploSRP\\Service\\ClienteValidadorService.cs",
               "RelativeToolTip": "AppExemploSRP\\Service\\ClienteValidadorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T00:39:00.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T00:39:00.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploSRP\\AppExemploSRP\\Domain\\Cliente.cs",
               "RelativeDocumentMoniker": "AppExemploSRP\\Domain\\Cliente.cs",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "AppExemploSRP\\Domain\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T00:29:08.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T00:29:08.824Z"
             },
             {
               "$type": "Document",
@@ -100,10 +97,9 @@
               "RelativeDocumentMoniker": "AppExemploSRP\\Model\\ClienteViolacaoSRP.cs",
               "ToolTip": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploSRP\\AppExemploSRP\\Model\\ClienteViolacaoSRP.cs",
               "RelativeToolTip": "AppExemploSRP\\Model\\ClienteViolacaoSRP.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBAAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T23:08:30.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T23:08:30.934Z"
             },
             {
               "$type": "Document",
@@ -113,10 +109,9 @@
               "RelativeDocumentMoniker": "AppExemploSRP\\Program.cs",
               "ToolTip": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploSRP\\AppExemploSRP\\Program.cs",
               "RelativeToolTip": "AppExemploSRP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T23:07:10.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T23:07:10.661Z"
             }
           ]
         }

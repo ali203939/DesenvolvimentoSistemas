@@ -1,17 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using AppExemploSRP.Domain;
 
 namespace AppExemploSRP.Service
 {
     public class FaturaService
     {
-        string fatura = string.Empty;
-        public string GerarFatura()
+        
+        public string GerarFatura(Cliente cliente)
         {
-            return $"Fatura gerada com sucesso! {fatura}";
+            string fatura = "";
+            fatura = $"--------Fatura gerada com sucesso------------\r\n" +
+                        $"Cliente: {cliente.Nome}\r\n" +
+                        $"Endereço: {cliente.Endereco}\r\n" +
+                        $"Telefone: {cliente.Telefone}\r\n" +
+                        $"Data da geração da fatura: {DateTime.Now:dd/MM/yyyy}\r\n" +
+                        $"-------------------------------------------";
+            return fatura;
         }
     }
 }

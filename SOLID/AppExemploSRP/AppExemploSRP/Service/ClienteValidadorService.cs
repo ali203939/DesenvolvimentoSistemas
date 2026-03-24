@@ -1,9 +1,4 @@
 ﻿using AppExemploSRP.Domain;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AppExemploSRP.Service
 {
@@ -12,7 +7,7 @@ namespace AppExemploSRP.Service
         public bool Valido { get; set; }
         public string Erros { get; set; }
 
-        public bool Validacao(Cliente cliente) 
+        public bool Validacao(Cliente cliente)
         {
             if (string.IsNullOrWhiteSpace(cliente.Nome))
             {
