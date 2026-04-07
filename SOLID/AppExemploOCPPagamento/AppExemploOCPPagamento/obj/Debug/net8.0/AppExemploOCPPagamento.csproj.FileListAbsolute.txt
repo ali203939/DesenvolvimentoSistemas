@@ -1,0 +1,14 @@
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploOCPPagamento\AppExemploOCPPagamento\bin\Debug\net8.0\AppExemploOCPPagamento.exe
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploOCPPagamento\AppExemploOCPPagamento\bin\Debug\net8.0\AppExemploOCPPagamento.deps.json
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploOCPPagamento\AppExemploOCPPagamento\bin\Debug\net8.0\AppExemploOCPPagamento.runtimeconfig.json
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploOCPPagamento\AppExemploOCPPagamento\bin\Debug\net8.0\AppExemploOCPPagamento.dll
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploOCPPagamento\AppExemploOCPPagamento\bin\Debug\net8.0\AppExemploOCPPagamento.pdb
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploOCPPagamento\AppExemploOCPPagamento\obj\Debug\net8.0\AppExemploOCPPagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploOCPPagamento\AppExemploOCPPagamento\obj\Debug\net8.0\AppExemploOCPPagamento.AssemblyInfoInputs.cache
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploOCPPagamento\AppExemploOCPPagamento\obj\Debug\net8.0\AppExemploOCPPagamento.AssemblyInfo.cs
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploOCPPagamento\AppExemploOCPPagamento\obj\Debug\net8.0\AppExemploOCPPagamento.csproj.CoreCompileInputs.cache
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploOCPPagamento\AppExemploOCPPagamento\obj\Debug\net8.0\AppExemploOCPPagamento.dll
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploOCPPagamento\AppExemploOCPPagamento\obj\Debug\net8.0\refint\AppExemploOCPPagamento.dll
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploOCPPagamento\AppExemploOCPPagamento\obj\Debug\net8.0\AppExemploOCPPagamento.pdb
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploOCPPagamento\AppExemploOCPPagamento\obj\Debug\net8.0\AppExemploOCPPagamento.genruntimeconfig.cache
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploOCPPagamento\AppExemploOCPPagamento\obj\Debug\net8.0\ref\AppExemploOCPPagamento.dll

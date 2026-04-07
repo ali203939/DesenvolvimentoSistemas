@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploISP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0921AD-6FCA-4AA5-B79D-FCAE51062E5C}|AppExemploISP\\AppExemploISP.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemploisp\\appexemploisp\\model\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0921AD-6FCA-4AA5-B79D-FCAE51062E5C}|AppExemploISP\\AppExemploISP.csproj|solutionrelative:appexemploisp\\model\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0921AD-6FCA-4AA5-B79D-FCAE51062E5C}|AppExemploISP\\AppExemploISP.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemploisp\\appexemploisp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0921AD-6FCA-4AA5-B79D-FCAE51062E5C}|AppExemploISP\\AppExemploISP.csproj|solutionrelative:appexemploisp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0921AD-6FCA-4AA5-B79D-FCAE51062E5C}|AppExemploISP\\AppExemploISP.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemploisp\\appexemploisp\\model\\cadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0921AD-6FCA-4AA5-B79D-FCAE51062E5C}|AppExemploISP\\AppExemploISP.csproj|solutionrelative:appexemploisp\\model\\cadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0921AD-6FCA-4AA5-B79D-FCAE51062E5C}|AppExemploISP\\AppExemploISP.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemploisp\\appexemploisp\\model\\icadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0921AD-6FCA-4AA5-B79D-FCAE51062E5C}|AppExemploISP\\AppExemploISP.csproj|solutionrelative:appexemploisp\\model\\icadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadastroProduto.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploISP\\AppExemploISP\\Model\\CadastroProduto.cs",
+              "RelativeDocumentMoniker": "AppExemploISP\\Model\\CadastroProduto.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploISP\\AppExemploISP\\Model\\CadastroProduto.cs",
+              "RelativeToolTip": "AppExemploISP\\Model\\CadastroProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T23:34:30.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastroCliente.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploISP\\AppExemploISP\\Model\\CadastroCliente.cs",
+              "RelativeDocumentMoniker": "AppExemploISP\\Model\\CadastroCliente.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploISP\\AppExemploISP\\Model\\CadastroCliente.cs",
+              "RelativeToolTip": "AppExemploISP\\Model\\CadastroCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T23:34:15.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICadastro.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploISP\\AppExemploISP\\Model\\ICadastro.cs",
+              "RelativeDocumentMoniker": "AppExemploISP\\Model\\ICadastro.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploISP\\AppExemploISP\\Model\\ICadastro.cs",
+              "RelativeToolTip": "AppExemploISP\\Model\\ICadastro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T23:33:33.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploISP\\AppExemploISP\\Program.cs",
+              "RelativeDocumentMoniker": "AppExemploISP\\Program.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploISP\\AppExemploISP\\Program.cs",
+              "RelativeToolTip": "AppExemploISP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T23:31:47.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

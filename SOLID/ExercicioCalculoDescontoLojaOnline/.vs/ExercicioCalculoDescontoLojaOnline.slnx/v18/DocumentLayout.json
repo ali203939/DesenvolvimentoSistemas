@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\ExercicioCalculoDescontoLojaOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD9F51C-B606-4600-F965-4748D7AAE238}|ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\exerciciocalculodescontolojaonline\\exerciciocalculodescontolojaonline\\model\\descontocupom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD9F51C-B606-4600-F965-4748D7AAE238}|ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline.csproj|solutionrelative:exerciciocalculodescontolojaonline\\model\\descontocupom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD9F51C-B606-4600-F965-4748D7AAE238}|ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\exerciciocalculodescontolojaonline\\exerciciocalculodescontolojaonline\\model\\descontoquantidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD9F51C-B606-4600-F965-4748D7AAE238}|ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline.csproj|solutionrelative:exerciciocalculodescontolojaonline\\model\\descontoquantidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD9F51C-B606-4600-F965-4748D7AAE238}|ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\exerciciocalculodescontolojaonline\\exerciciocalculodescontolojaonline\\model\\descontosazonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD9F51C-B606-4600-F965-4748D7AAE238}|ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline.csproj|solutionrelative:exerciciocalculodescontolojaonline\\model\\descontosazonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD9F51C-B606-4600-F965-4748D7AAE238}|ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\exerciciocalculodescontolojaonline\\exerciciocalculodescontolojaonline\\model\\idesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD9F51C-B606-4600-F965-4748D7AAE238}|ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline.csproj|solutionrelative:exerciciocalculodescontolojaonline\\model\\idesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD9F51C-B606-4600-F965-4748D7AAE238}|ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\exerciciocalculodescontolojaonline\\exerciciocalculodescontolojaonline\\exerciciocalculodescontolojaonline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DFD9F51C-B606-4600-F965-4748D7AAE238}|ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline.csproj|solutionrelative:exerciciocalculodescontolojaonline\\exerciciocalculodescontolojaonline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DescontoSazonal.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline\\Model\\DescontoSazonal.cs",
+              "RelativeDocumentMoniker": "ExercicioCalculoDescontoLojaOnline\\Model\\DescontoSazonal.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline\\Model\\DescontoSazonal.cs",
+              "RelativeToolTip": "ExercicioCalculoDescontoLojaOnline\\Model\\DescontoSazonal.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T23:35:29.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DescontoQuantidade.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline\\Model\\DescontoQuantidade.cs",
+              "RelativeDocumentMoniker": "ExercicioCalculoDescontoLojaOnline\\Model\\DescontoQuantidade.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline\\Model\\DescontoQuantidade.cs",
+              "RelativeToolTip": "ExercicioCalculoDescontoLojaOnline\\Model\\DescontoQuantidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T23:32:11.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DescontoCupom.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline\\Model\\DescontoCupom.cs",
+              "RelativeDocumentMoniker": "ExercicioCalculoDescontoLojaOnline\\Model\\DescontoCupom.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline\\Model\\DescontoCupom.cs",
+              "RelativeToolTip": "ExercicioCalculoDescontoLojaOnline\\Model\\DescontoCupom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T23:31:05.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDesconto.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline\\Model\\IDesconto.cs",
+              "RelativeDocumentMoniker": "ExercicioCalculoDescontoLojaOnline\\Model\\IDesconto.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline\\Model\\IDesconto.cs",
+              "RelativeToolTip": "ExercicioCalculoDescontoLojaOnline\\Model\\IDesconto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T23:23:43.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExercicioCalculoDescontoLojaOnline.csproj",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline.csproj",
+              "RelativeDocumentMoniker": "ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline.csproj",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline.csproj",
+              "RelativeToolTip": "ExercicioCalculoDescontoLojaOnline\\ExercicioCalculoDescontoLojaOnline.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-30T23:22:59.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

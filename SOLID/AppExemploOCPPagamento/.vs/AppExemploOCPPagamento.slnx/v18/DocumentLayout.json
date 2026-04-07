@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploOCPPagamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5EA3AB-6F7F-F2F9-3405-F9E60CD6ABA7}|AppExemploOCPPagamento\\AppExemploOCPPagamento.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemploocppagamento\\appexemploocppagamento\\model\\calculadorapagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5EA3AB-6F7F-F2F9-3405-F9E60CD6ABA7}|AppExemploOCPPagamento\\AppExemploOCPPagamento.csproj|solutionrelative:appexemploocppagamento\\model\\calculadorapagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5EA3AB-6F7F-F2F9-3405-F9E60CD6ABA7}|AppExemploOCPPagamento\\AppExemploOCPPagamento.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemploocppagamento\\appexemploocppagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5EA3AB-6F7F-F2F9-3405-F9E60CD6ABA7}|AppExemploOCPPagamento\\AppExemploOCPPagamento.csproj|solutionrelative:appexemploocppagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5EA3AB-6F7F-F2F9-3405-F9E60CD6ABA7}|AppExemploOCPPagamento\\AppExemploOCPPagamento.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemploocppagamento\\appexemploocppagamento\\model\\descontosemanaconsumidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5EA3AB-6F7F-F2F9-3405-F9E60CD6ABA7}|AppExemploOCPPagamento\\AppExemploOCPPagamento.csproj|solutionrelative:appexemploocppagamento\\model\\descontosemanaconsumidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5EA3AB-6F7F-F2F9-3405-F9E60CD6ABA7}|AppExemploOCPPagamento\\AppExemploOCPPagamento.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemploocppagamento\\appexemploocppagamento\\model\\descontocupom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5EA3AB-6F7F-F2F9-3405-F9E60CD6ABA7}|AppExemploOCPPagamento\\AppExemploOCPPagamento.csproj|solutionrelative:appexemploocppagamento\\model\\descontocupom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5EA3AB-6F7F-F2F9-3405-F9E60CD6ABA7}|AppExemploOCPPagamento\\AppExemploOCPPagamento.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemploocppagamento\\appexemploocppagamento\\model\\descontoblackfriday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5EA3AB-6F7F-F2F9-3405-F9E60CD6ABA7}|AppExemploOCPPagamento\\AppExemploOCPPagamento.csproj|solutionrelative:appexemploocppagamento\\model\\descontoblackfriday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5EA3AB-6F7F-F2F9-3405-F9E60CD6ABA7}|AppExemploOCPPagamento\\AppExemploOCPPagamento.csproj|c:\\users\\ali.brito\\desktop\\atividades\\solid\\appexemploocppagamento\\appexemploocppagamento\\model\\idesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5EA3AB-6F7F-F2F9-3405-F9E60CD6ABA7}|AppExemploOCPPagamento\\AppExemploOCPPagamento.csproj|solutionrelative:appexemploocppagamento\\model\\idesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DescontoSemanaConsumidor.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploOCPPagamento\\AppExemploOCPPagamento\\Model\\DescontoSemanaConsumidor.cs",
+              "RelativeDocumentMoniker": "AppExemploOCPPagamento\\Model\\DescontoSemanaConsumidor.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploOCPPagamento\\AppExemploOCPPagamento\\Model\\DescontoSemanaConsumidor.cs",
+              "RelativeToolTip": "AppExemploOCPPagamento\\Model\\DescontoSemanaConsumidor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T23:13:31.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculadoraPagamento.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploOCPPagamento\\AppExemploOCPPagamento\\Model\\CalculadoraPagamento.cs",
+              "RelativeDocumentMoniker": "AppExemploOCPPagamento\\Model\\CalculadoraPagamento.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploOCPPagamento\\AppExemploOCPPagamento\\Model\\CalculadoraPagamento.cs",
+              "RelativeToolTip": "AppExemploOCPPagamento\\Model\\CalculadoraPagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:51:31.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DescontoCupom.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploOCPPagamento\\AppExemploOCPPagamento\\Model\\DescontoCupom.cs",
+              "RelativeDocumentMoniker": "AppExemploOCPPagamento\\Model\\DescontoCupom.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploOCPPagamento\\AppExemploOCPPagamento\\Model\\DescontoCupom.cs",
+              "RelativeToolTip": "AppExemploOCPPagamento\\Model\\DescontoCupom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:47:39.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DescontoBlackFriday.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploOCPPagamento\\AppExemploOCPPagamento\\Model\\DescontoBlackFriday.cs",
+              "RelativeDocumentMoniker": "AppExemploOCPPagamento\\Model\\DescontoBlackFriday.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploOCPPagamento\\AppExemploOCPPagamento\\Model\\DescontoBlackFriday.cs",
+              "RelativeToolTip": "AppExemploOCPPagamento\\Model\\DescontoBlackFriday.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:44:47.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDesconto.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploOCPPagamento\\AppExemploOCPPagamento\\Model\\IDesconto.cs",
+              "RelativeDocumentMoniker": "AppExemploOCPPagamento\\Model\\IDesconto.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploOCPPagamento\\AppExemploOCPPagamento\\Model\\IDesconto.cs",
+              "RelativeToolTip": "AppExemploOCPPagamento\\Model\\IDesconto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:42:48.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploOCPPagamento\\AppExemploOCPPagamento\\Program.cs",
+              "RelativeDocumentMoniker": "AppExemploOCPPagamento\\Program.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\atividades\\SOLID\\AppExemploOCPPagamento\\AppExemploOCPPagamento\\Program.cs",
+              "RelativeToolTip": "AppExemploOCPPagamento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:39:30.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

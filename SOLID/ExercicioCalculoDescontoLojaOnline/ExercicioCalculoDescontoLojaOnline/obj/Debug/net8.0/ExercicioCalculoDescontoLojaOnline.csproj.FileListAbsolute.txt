@@ -1,0 +1,14 @@
+C:\Users\ali.brito\Desktop\atividades\SOLID\ExercicioCalculoDescontoLojaOnline\ExercicioCalculoDescontoLojaOnline\bin\Debug\net8.0\ExercicioCalculoDescontoLojaOnline.exe
+C:\Users\ali.brito\Desktop\atividades\SOLID\ExercicioCalculoDescontoLojaOnline\ExercicioCalculoDescontoLojaOnline\bin\Debug\net8.0\ExercicioCalculoDescontoLojaOnline.deps.json
+C:\Users\ali.brito\Desktop\atividades\SOLID\ExercicioCalculoDescontoLojaOnline\ExercicioCalculoDescontoLojaOnline\bin\Debug\net8.0\ExercicioCalculoDescontoLojaOnline.runtimeconfig.json
+C:\Users\ali.brito\Desktop\atividades\SOLID\ExercicioCalculoDescontoLojaOnline\ExercicioCalculoDescontoLojaOnline\bin\Debug\net8.0\ExercicioCalculoDescontoLojaOnline.dll
+C:\Users\ali.brito\Desktop\atividades\SOLID\ExercicioCalculoDescontoLojaOnline\ExercicioCalculoDescontoLojaOnline\bin\Debug\net8.0\ExercicioCalculoDescontoLojaOnline.pdb
+C:\Users\ali.brito\Desktop\atividades\SOLID\ExercicioCalculoDescontoLojaOnline\ExercicioCalculoDescontoLojaOnline\obj\Debug\net8.0\ExercicioCalculoDescontoLojaOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.brito\Desktop\atividades\SOLID\ExercicioCalculoDescontoLojaOnline\ExercicioCalculoDescontoLojaOnline\obj\Debug\net8.0\ExercicioCalculoDescontoLojaOnline.AssemblyInfoInputs.cache
+C:\Users\ali.brito\Desktop\atividades\SOLID\ExercicioCalculoDescontoLojaOnline\ExercicioCalculoDescontoLojaOnline\obj\Debug\net8.0\ExercicioCalculoDescontoLojaOnline.AssemblyInfo.cs
+C:\Users\ali.brito\Desktop\atividades\SOLID\ExercicioCalculoDescontoLojaOnline\ExercicioCalculoDescontoLojaOnline\obj\Debug\net8.0\ExercicioCalculoDescontoLojaOnline.csproj.CoreCompileInputs.cache
+C:\Users\ali.brito\Desktop\atividades\SOLID\ExercicioCalculoDescontoLojaOnline\ExercicioCalculoDescontoLojaOnline\obj\Debug\net8.0\ExercicioCalculoDescontoLojaOnline.dll
+C:\Users\ali.brito\Desktop\atividades\SOLID\ExercicioCalculoDescontoLojaOnline\ExercicioCalculoDescontoLojaOnline\obj\Debug\net8.0\refint\ExercicioCalculoDescontoLojaOnline.dll
+C:\Users\ali.brito\Desktop\atividades\SOLID\ExercicioCalculoDescontoLojaOnline\ExercicioCalculoDescontoLojaOnline\obj\Debug\net8.0\ExercicioCalculoDescontoLojaOnline.pdb
+C:\Users\ali.brito\Desktop\atividades\SOLID\ExercicioCalculoDescontoLojaOnline\ExercicioCalculoDescontoLojaOnline\obj\Debug\net8.0\ExercicioCalculoDescontoLojaOnline.genruntimeconfig.cache
+C:\Users\ali.brito\Desktop\atividades\SOLID\ExercicioCalculoDescontoLojaOnline\ExercicioCalculoDescontoLojaOnline\obj\Debug\net8.0\ref\ExercicioCalculoDescontoLojaOnline.dll

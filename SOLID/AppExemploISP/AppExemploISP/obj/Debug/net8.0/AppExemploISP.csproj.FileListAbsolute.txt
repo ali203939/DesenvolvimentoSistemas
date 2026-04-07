@@ -1,0 +1,14 @@
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploISP\AppExemploISP\bin\Debug\net8.0\AppExemploISP.exe
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploISP\AppExemploISP\bin\Debug\net8.0\AppExemploISP.deps.json
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploISP\AppExemploISP\bin\Debug\net8.0\AppExemploISP.runtimeconfig.json
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploISP\AppExemploISP\bin\Debug\net8.0\AppExemploISP.dll
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploISP\AppExemploISP\bin\Debug\net8.0\AppExemploISP.pdb
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploISP\AppExemploISP\obj\Debug\net8.0\AppExemploISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploISP\AppExemploISP\obj\Debug\net8.0\AppExemploISP.AssemblyInfoInputs.cache
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploISP\AppExemploISP\obj\Debug\net8.0\AppExemploISP.AssemblyInfo.cs
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploISP\AppExemploISP\obj\Debug\net8.0\AppExemploISP.csproj.CoreCompileInputs.cache
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploISP\AppExemploISP\obj\Debug\net8.0\AppExemploISP.dll
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploISP\AppExemploISP\obj\Debug\net8.0\refint\AppExemploISP.dll
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploISP\AppExemploISP\obj\Debug\net8.0\AppExemploISP.pdb
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploISP\AppExemploISP\obj\Debug\net8.0\AppExemploISP.genruntimeconfig.cache
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploISP\AppExemploISP\obj\Debug\net8.0\ref\AppExemploISP.dll
