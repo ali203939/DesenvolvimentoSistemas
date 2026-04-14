@@ -1,0 +1,14 @@
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExercicioDipBiblioteca\AppExercicioDipBiblioteca\bin\Debug\net8.0\AppExercicioDipBiblioteca.exe
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExercicioDipBiblioteca\AppExercicioDipBiblioteca\bin\Debug\net8.0\AppExercicioDipBiblioteca.deps.json
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExercicioDipBiblioteca\AppExercicioDipBiblioteca\bin\Debug\net8.0\AppExercicioDipBiblioteca.runtimeconfig.json
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExercicioDipBiblioteca\AppExercicioDipBiblioteca\bin\Debug\net8.0\AppExercicioDipBiblioteca.dll
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExercicioDipBiblioteca\AppExercicioDipBiblioteca\bin\Debug\net8.0\AppExercicioDipBiblioteca.pdb
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExercicioDipBiblioteca\AppExercicioDipBiblioteca\obj\Debug\net8.0\AppExercicioDipBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExercicioDipBiblioteca\AppExercicioDipBiblioteca\obj\Debug\net8.0\AppExercicioDipBiblioteca.AssemblyInfoInputs.cache
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExercicioDipBiblioteca\AppExercicioDipBiblioteca\obj\Debug\net8.0\AppExercicioDipBiblioteca.AssemblyInfo.cs
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExercicioDipBiblioteca\AppExercicioDipBiblioteca\obj\Debug\net8.0\AppExercicioDipBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExercicioDipBiblioteca\AppExercicioDipBiblioteca\obj\Debug\net8.0\AppExercicioDipBiblioteca.dll
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExercicioDipBiblioteca\AppExercicioDipBiblioteca\obj\Debug\net8.0\refint\AppExercicioDipBiblioteca.dll
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExercicioDipBiblioteca\AppExercicioDipBiblioteca\obj\Debug\net8.0\AppExercicioDipBiblioteca.pdb
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExercicioDipBiblioteca\AppExercicioDipBiblioteca\obj\Debug\net8.0\AppExercicioDipBiblioteca.genruntimeconfig.cache
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExercicioDipBiblioteca\AppExercicioDipBiblioteca\obj\Debug\net8.0\ref\AppExercicioDipBiblioteca.dll

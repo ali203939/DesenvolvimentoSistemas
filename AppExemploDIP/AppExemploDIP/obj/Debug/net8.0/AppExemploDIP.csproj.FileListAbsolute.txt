@@ -1,0 +1,14 @@
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploDIP\AppExemploDIP\bin\Debug\net8.0\AppExemploDIP.exe
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploDIP\AppExemploDIP\bin\Debug\net8.0\AppExemploDIP.deps.json
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploDIP\AppExemploDIP\bin\Debug\net8.0\AppExemploDIP.runtimeconfig.json
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploDIP\AppExemploDIP\bin\Debug\net8.0\AppExemploDIP.dll
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploDIP\AppExemploDIP\bin\Debug\net8.0\AppExemploDIP.pdb
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploDIP\AppExemploDIP\obj\Debug\net8.0\AppExemploDIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploDIP\AppExemploDIP\obj\Debug\net8.0\AppExemploDIP.AssemblyInfoInputs.cache
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploDIP\AppExemploDIP\obj\Debug\net8.0\AppExemploDIP.AssemblyInfo.cs
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploDIP\AppExemploDIP\obj\Debug\net8.0\AppExemploDIP.csproj.CoreCompileInputs.cache
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploDIP\AppExemploDIP\obj\Debug\net8.0\AppExemploDIP.dll
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploDIP\AppExemploDIP\obj\Debug\net8.0\refint\AppExemploDIP.dll
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploDIP\AppExemploDIP\obj\Debug\net8.0\AppExemploDIP.pdb
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploDIP\AppExemploDIP\obj\Debug\net8.0\AppExemploDIP.genruntimeconfig.cache
+C:\Users\ali.brito\Desktop\atividades\SOLID\AppExemploDIP\AppExemploDIP\obj\Debug\net8.0\ref\AppExemploDIP.dll
