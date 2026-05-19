@@ -1,33 +1,69 @@
-﻿using WebApiBiblioteca.Models;
+﻿using Microsoft.EntityFrameworkCore;
+using WebApiBiblioteca.Data;
+using WebApiBiblioteca.Models;
 using WebApiBiblioteca.Services.Interfaces;
 
 namespace WebApiBiblioteca.Services
 {
     public class ClienteService : IClienteService
     {
-        public Task<bool> AtualizarAsync(Cliente cliente)
+        private readonly BibliotecaSQLServerDbContext _context;
+
+        public ClienteService(BibliotecaSQLServerDbContext context)
         {
-            throw new NotImplementedException();
+            _context = context;
         }
 
-        public Task<bool> ExcluirAsync(int id)
+        public async Task<Cliente> ObterPorIdAsync(int id)
         {
-            throw new NotImplementedException();
+            var cliente = await _context.Clientes.AsNoTracking()
+            .FirstOrDefaultAsync(c => c.Id == id);
+            return cliente;
         }
 
-        public Task<Cliente> InserirAsync(Cliente cliente)
+        public async Task<IEnumerable<Cliente>> ObterTodosAsync()
         {
-            throw new NotImplementedException();
+            return await _context.Clientes.AsNoTracking().ToListAsync();
         }
 
-        public Task<Cliente> ObterPorIdAsync(int id)
+        public async Task<bool> AtualizarAsync(Cliente cliente)
         {
-            throw new NotImplementedException();
+            var existe = await _context.Clientes.AnyAsync(c => c.Id == cliente.Id);
+            if ( !existe)
+            {
+                return false;
+            }
+            _context.Clientes.Update(cliente);
+            await _context.SaveChangesAsync();
+            return true;
+            {
+                
+            }
         }
 
-        public Task<IEnumerable<Cliente>> ObterTodosAsync()
+        public BibliotecaSQLServerDbContext Get_context()
         {
-            throw new NotImplementedException();
+            return _context;
         }
+
+        public async Task<bool> ExcluirAsync(int id)
+        {
+           var cliente = await _context.Clientes.FindAsync(id);
+            if (cliente is null)
+            {
+                return false;
+            }
+            _context.Clientes.Remove(cliente);
+            await _context.SaveChangesAsync();
+            return true;
+        }
+
+        public async Task<Cliente> InserirAsync(Cliente cliente)
+        {
+            _context.Clientes.Add(cliente);
+            await _context.SaveChangesAsync();
+            return cliente;
+        }
+
     }
 }
