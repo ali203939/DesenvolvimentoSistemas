@@ -1,4 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations;
 
 namespace WebApiBiblioteca.Models
 {
@@ -20,7 +20,7 @@ namespace WebApiBiblioteca.Models
 
         public DateTime DataCadastro { get; set; } = DateTime.UtcNow;
 
-        public bool Ativo { get; set; } = true;
+        public bool? Ativo { get; set; } = true;
 
         // Navegação: um Cliente pode ter muitos Empréstimos
         public ICollection<Emprestimo> Emprestimos { get; set; } = new List<Emprestimo>();

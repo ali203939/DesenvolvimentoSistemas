@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\ali.brito\\desktop\\desenvolvimentosistemas\\webapibiblioteca\\webapibiblioteca\\data\\bibliotecasqlserverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\data\\bibliotecasqlserverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\ali.brito\\desktop\\desenvolvimentosistemas\\webapibiblioteca\\webapibiblioteca\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\ali.brito\\desktop\\desenvolvimentosistemas\\webapibiblioteca\\webapibiblioteca\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\ali.brito\\desktop\\desenvolvimentosistemas\\webapibiblioteca\\webapibiblioteca\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\ali.brito\\desktop\\desenvolvimentosistemas\\webapibiblioteca\\webapibiblioteca\\services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\ali.brito\\desktop\\desenvolvimentosistemas\\webapibiblioteca\\webapibiblioteca\\services\\interfaces\\iemprestimoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\services\\interfaces\\iemprestimoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\ali.brito\\desktop\\desenvolvimentosistemas\\webapibiblioteca\\webapibiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\ali.brito\\desktop\\desenvolvimentosistemas\\webapibiblioteca\\webapibiblioteca\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\ali.brito\\desktop\\desenvolvimentosistemas\\webapibiblioteca\\webapibiblioteca\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\ali.brito\\desktop\\desenvolvimentosistemas\\webapibiblioteca\\webapibiblioteca\\services\\emprestimoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\services\\emprestimoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\ali.brito\\desktop\\desenvolvimentosistemas\\webapibiblioteca\\webapibiblioteca\\services\\interfaces\\ilivroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\services\\interfaces\\ilivroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\ali.brito\\desktop\\desenvolvimentosistemas\\webapibiblioteca\\webapibiblioteca\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\ali.brito\\desktop\\desenvolvimentosistemas\\webapibiblioteca\\webapibiblioteca\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\ali.brito\\desktop\\desenvolvimentosistemas\\webapibiblioteca\\webapibiblioteca\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\ali.brito\\desktop\\desenvolvimentosistemas\\webapibiblioteca\\webapibiblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\ali.brito\\desktop\\desenvolvimentosistemas\\webapibiblioteca\\webapibiblioteca\\webapibiblioteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0CC57D7F-08D2-D7E9-538F-AD6852BF85E7}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\webapibiblioteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Services\\ClienteService.cs",
+              "RelativeToolTip": "WebApiBiblioteca\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T23:30:00.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Services\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\Services\\Interfaces\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Services\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "WebApiBiblioteca\\Services\\Interfaces\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T23:19:01.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Emprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Models\\Emprestimo.cs",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\Models\\Emprestimo.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Models\\Emprestimo.cs",
+              "RelativeToolTip": "WebApiBiblioteca\\Models\\Emprestimo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T23:16:35.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Models\\Livro.cs",
+              "RelativeToolTip": "WebApiBiblioteca\\Models\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T23:10:51.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Models\\Autor.cs",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\Models\\Autor.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Models\\Autor.cs",
+              "RelativeToolTip": "WebApiBiblioteca\\Models\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T22:58:45.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Program.cs",
+              "RelativeToolTip": "WebApiBiblioteca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T23:33:34.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\DTOs\\ClienteDto.cs",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\DTOs\\ClienteDto.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\DTOs\\ClienteDto.cs",
+              "RelativeToolTip": "WebApiBiblioteca\\DTOs\\ClienteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T22:54:54.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "WebApiBiblioteca\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T00:41:44.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmprestimoService.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Services\\Interfaces\\IEmprestimoService.cs",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\Services\\Interfaces\\IEmprestimoService.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Services\\Interfaces\\IEmprestimoService.cs",
+              "RelativeToolTip": "WebApiBiblioteca\\Services\\Interfaces\\IEmprestimoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T23:44:47.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BibliotecaSQLServerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Data\\BibliotecaSQLServerDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\Data\\BibliotecaSQLServerDbContext.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Data\\BibliotecaSQLServerDbContext.cs",
+              "RelativeToolTip": "WebApiBiblioteca\\Data\\BibliotecaSQLServerDbContext.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T22:53:40.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmprestimoService.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Services\\EmprestimoService.cs",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\Services\\EmprestimoService.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Services\\EmprestimoService.cs",
+              "RelativeToolTip": "WebApiBiblioteca\\Services\\EmprestimoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T23:30:49.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILivroService.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Services\\Interfaces\\ILivroService.cs",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\Services\\Interfaces\\ILivroService.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Services\\Interfaces\\ILivroService.cs",
+              "RelativeToolTip": "WebApiBiblioteca\\Services\\Interfaces\\ILivroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T23:31:14.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Models\\Cliente.cs",
+              "RelativeToolTip": "WebApiBiblioteca\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAD4vxkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T23:01:04.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LivroService.cs",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Services\\LivroService.cs",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\Services\\LivroService.cs",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\Services\\LivroService.cs",
+              "RelativeToolTip": "WebApiBiblioteca\\Services\\LivroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T23:36:03.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\appsettings.json",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\appsettings.json",
+              "RelativeToolTip": "WebApiBiblioteca\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-18T22:41:35.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WebApiBiblioteca.csproj",
+              "DocumentMoniker": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\WebApiBiblioteca.csproj",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\WebApiBiblioteca.csproj",
+              "ToolTip": "C:\\Users\\ali.brito\\Desktop\\DesenvolvimentoSistemas\\WebApiBiblioteca\\WebApiBiblioteca\\WebApiBiblioteca.csproj",
+              "RelativeToolTip": "WebApiBiblioteca\\WebApiBiblioteca.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-11T22:54:41.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
